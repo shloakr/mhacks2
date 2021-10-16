@@ -12,7 +12,8 @@ from fuzzywuzzy import fuzz
 
 from spacy.matcher import PhraseMatcher
 from collections import Counter
-
+# en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.2.0/en_core_web_sm-2.2.0.tar.gz
+# https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.3.1/en_core_web_sm-2.3.1.tar.gz
 import docx2txt
 import pandas as pd
 import spacy
