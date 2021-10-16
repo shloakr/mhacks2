@@ -10,6 +10,9 @@ import fitz
 import pandas as pd
 from PIL import Image
 
+import nltk
+nltk.download('stopwords')
+
 
 df = pd.read_csv('2019_free_title_data.csv')
 
