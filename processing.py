@@ -16,14 +16,11 @@ from collections import Counter
 import docx2txt
 import pandas as pd
 import spacy
-import en_core_web_sm
-
-nlp = en_core_web_sm.load()
 
 import logging
 
 
-# nlp = spacy.load("en_core_web_sm")
+nlp = spacy.load("en_core_web_sm")
 r = Rake()
 
 class Resume_aid:
