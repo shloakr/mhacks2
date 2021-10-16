@@ -1,5 +1,5 @@
 scikit-learn
-spacy
+spacy ==2.3.5
 rake-nltk
 fuzzywuzzy==0.18.0
 docx2txt
