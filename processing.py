@@ -19,6 +19,9 @@ import pandas as pd
 import spacy
 import en_core_web_sm
 
+import nltk
+nltk.download('stopwords')
+
 nlp = en_core_web_sm.load()
 
 import logging
