@@ -16,11 +16,11 @@ df = pd.read_csv('2019_free_title_data.csv')
 
 
 st.set_page_config(
-   page_title="Resume Aid",
+   page_title="Resume Architect",
    page_icon="✅",
    layout="wide",
 )
-st.title("Resume Architech")
+st.title("Resume Architect")
 
 
 
