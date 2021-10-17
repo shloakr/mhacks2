@@ -10,8 +10,6 @@ import fitz
 import pandas as pd
 from PIL import Image
 
-import nltk
-nltk.download('stopwords')
 
 
 df = pd.read_csv('2019_free_title_data.csv')
@@ -32,7 +30,6 @@ def st_display_pdf(pdf_file, col):
         base64_pdf = base64.b64encode(file.read()).decode('utf-8')
         pdf_display = f'<iframe src="data:application/pdf;base64,{base64_pdf}" width="500" height="500" type="application/pdf"></iframe>'
         col.markdown(pdf_display, unsafe_allow_html=True)
-
 
 
 def save_uploadedfile(uploadedfile):
