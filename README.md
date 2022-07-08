@@ -1,9 +1,6 @@
 # mhacks
 Best Education hack 1st place at Mhacks hosted by University of Michigan
 
-## Video Demo
-https://www.youtube.com/watch?v=qFVGvRcO8oI
-
 ## Images
 
 <img width="1356" alt="Screenshot 2021-10-17 at 4 10 27 PM" src="https://user-images.githubusercontent.com/70055735/137667277-7901f92d-e947-4685-841a-4527906b5f66.png">
