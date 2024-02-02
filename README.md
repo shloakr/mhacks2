@@ -1,6 +1,8 @@
-# mhacks
-Best Education hack 1st place at Mhacks hosted by University of Michigan
+# MHacks
+Best Education hack 1st place at Mhacks hosted by the University of Michigan
 
+## Video
+URL: https://www.youtube.com/watch?v=7WVork-8c9I
 ## Images
 
 <img width="1356" alt="Screenshot 2021-10-17 at 4 10 27 PM" src="https://user-images.githubusercontent.com/70055735/137667277-7901f92d-e947-4685-841a-4527906b5f66.png">
